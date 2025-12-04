@@ -5,9 +5,6 @@
 - I'm currently a 2nd year college student at University of Information Technology, Việt Nam 🎓🎓🎓.
 
 - I’m currently working on AI&ML, Web Development and Compettitive Programming.
-
-- Programming languages: C++, Javascript
-
 <!--
 **SunnyYeahBoiii/SunnyYeahBoiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
