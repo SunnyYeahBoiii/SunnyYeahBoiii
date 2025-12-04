@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to my GitHub 👋👋
+
+- I'm Phuong, you can pronouce it like 'Founge' (Tounge with an F) or just call me Sunny 🌞🌞🌞.
+
+- I'm currently a 2nd year college student at University of Information Technology, Việt Nam 🎓🎓🎓.
+
+- I’m currently working on AI&ML, Web Development and Compettitive Programming.
+
+- Programming languages: C++, Javascript
 
 <!--
 **SunnyYeahBoiii/SunnyYeahBoiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
