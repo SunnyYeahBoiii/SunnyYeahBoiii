@@ -48,33 +48,6 @@ reliability-minded   Add diagnostics, validation, retries, and admin visibility 
 learning-oriented    Build education tools, ML demos, and documentation-heavy projects
 ```
 
-## Toolbelt
-
-<p>
-  <strong>Languages</strong><br />
-  <img src="https://skillicons.dev/icons?i=ts,python,rust,postgres" alt="TypeScript, Python, Rust, SQL/PostgreSQL" />
-</p>
-
-<p>
-  <strong>Frontend</strong><br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="React, Next.js, Tailwind CSS, Vite" />
-</p>
-
-<p>
-  <strong>Backend</strong><br />
-  <img src="https://skillicons.dev/icons?i=nestjs,prisma,postgres,sqlite" alt="NestJS, Prisma, PostgreSQL, SQLite" />
-</p>
-
-<p>
-  <strong>AI / Data</strong><br />
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="Python, PyTorch, TensorFlow, OpenCV" />
-</p>
-
-<p>
-  <strong>Workflow</strong><br />
-  <img src="https://skillicons.dev/icons?i=docker,github,git,bun,pnpm" alt="Docker, GitHub, Git, Bun, pnpm" />
-</p>
-
 ## Smaller Experiments
 
 - [Handwriting Text Generation](https://github.com/SunnyYeahBoiii/Handwritting-Text-Generation): GAN/cGAN experiments and ML lab resources.
